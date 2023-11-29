@@ -1,0 +1,9 @@
+openstacksdk
+python-openstackclient
+python-novaclient
+python-neutronclient
+python-cinderclient
+python-glanceclient
+python-swiftclient
+python-designateclient
+python-octaviaclient
